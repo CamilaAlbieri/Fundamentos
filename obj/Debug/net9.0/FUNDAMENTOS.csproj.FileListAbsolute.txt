@@ -12,3 +12,4 @@ C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\refint\FUNDAMENTOS.dll
 C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\FUNDAMENTOS.pdb
 C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\FUNDAMENTOS.genruntimeconfig.cache
 C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\ref\FUNDAMENTOS.dll
+C:\Portifolio\BootCamp .NET\Fundamentos\obj\Debug\net9.0\Fundamentos.sourcelink.json
