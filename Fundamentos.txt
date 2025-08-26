@@ -1,0 +1,48 @@
+
+
+//------------------------------------------------
+
+//Conversão para string
+
+// int inteiro = 10;
+// string a = inteiro.ToString(); // Converte o inteiro para string
+// Console.WriteLine(a);
+
+//------------------------------------------------
+
+//Convertendo tipos
+//int a = Convert.ToInt32("10"); //Preferivel usar a classe Convert pois aceita vários tipos de dados inclusive null
+// int a = int.Parse("10c");
+
+// Console.WriteLine(a);
+
+//------------------------------------------------
+
+//Operadores de Atribuição;
+
+// int a = 10;
+// int b = 20;
+
+// int c = a + b; // Soma
+
+//------------------------------------------------
+//c = c + 5;
+//c += 5; // c = c + 5
+
+//c -= 5; // c = c - 5
+//c *= 5; // c = c * 5
+//c /= 5; // c = c / 5
+
+//Console.WriteLine(c);
+
+//------------------------------------------------
+
+// DateTime dataAtual = DateTime.Now.AddDays(5);
+// Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm")); //ToString coloca o formato da data 
+
+//-----------------------------------------------
+// Pessoa p = new Pessoa();
+
+// p.Nome = "Camila";
+// p.Idade = 24;
+// p.Apresentar();

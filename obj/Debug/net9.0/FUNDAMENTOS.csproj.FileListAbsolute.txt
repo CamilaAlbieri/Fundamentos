@@ -1,0 +1,14 @@
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\bin\Debug\net9.0\FUNDAMENTOS.exe
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\bin\Debug\net9.0\FUNDAMENTOS.deps.json
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\bin\Debug\net9.0\FUNDAMENTOS.runtimeconfig.json
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\bin\Debug\net9.0\FUNDAMENTOS.dll
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\bin\Debug\net9.0\FUNDAMENTOS.pdb
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\FUNDAMENTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\FUNDAMENTOS.AssemblyInfoInputs.cache
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\FUNDAMENTOS.AssemblyInfo.cs
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\FUNDAMENTOS.csproj.CoreCompileInputs.cache
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\FUNDAMENTOS.dll
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\refint\FUNDAMENTOS.dll
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\FUNDAMENTOS.pdb
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\FUNDAMENTOS.genruntimeconfig.cache
+C:\Portifolio\BootCamp .NET\FUNDAMENTOS\obj\Debug\net9.0\ref\FUNDAMENTOS.dll
