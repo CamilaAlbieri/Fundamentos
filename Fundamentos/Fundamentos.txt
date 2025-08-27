@@ -1,0 +1,8 @@
+Estrutura de um programa e método principal
+
+Arquivos de Projeto
+
+    .csproj : Contém informações referente a um projeto (build, versão, debug) Mesma coisa que digitar dotnet new no terminal.
+
+    .sln : Significa Solution . Contém informações que carregam um agrupamento de projetos. Serve para melhorar a arganização.
+
