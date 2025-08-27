@@ -7,7 +7,7 @@ namespace Fundamentos.Common.Models
 {
     public class Pessoa
     {
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
         public int Idade { get; set; }
 
         public void Apresentar()
@@ -16,3 +16,4 @@ namespace Fundamentos.Common.Models
         }
     }
 }
+
