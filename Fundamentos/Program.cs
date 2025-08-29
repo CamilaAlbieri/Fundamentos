@@ -1,6 +1,18 @@
 ﻿using Fundamentos.Common.Models;
 
 
+//Comentários e boas práticas
+
+
+Calculadora calc = new Calculadora();
+calc.Somar(4,5);
+calc.Subtrair(2,3);
+
+Pessoa pessoa1 = new Pessoa();
+pessoa1.Nome = "Camila";
+pessoa1.Idade = 24;
+
+pessoa1.Apresentar();
 
 
 //------------------------------------------------
@@ -8,22 +20,22 @@
 //Listas
 
 
-List<string> listaString = new List<string>(); //Não precisa definir o tamanho da lista
+// List<string> listaString = new List<string>(); //Não precisa definir o tamanho da lista
 
-listaString.Add("SP");
-listaString.Add("BA");
-listaString.Add("MG");
-listaString.Add("RJ");
+// listaString.Add("SP");
+// listaString.Add("BA");
+// listaString.Add("MG");
+// listaString.Add("RJ");
 
-Console.WriteLine($"Itens na lista: {listaString.Count} | Capacidade: {listaString.Capacity}"); //Count retorna a quantidade de itens na lista
+// Console.WriteLine($"Itens na lista: {listaString.Count} | Capacidade: {listaString.Capacity}"); //Count retorna a quantidade de itens na lista
 
-listaString.Add("SC");
+// listaString.Add("SC");
 
-Console.WriteLine($"Itens na lista: {listaString.Count} | Capacidade: {listaString.Capacity}");
+// Console.WriteLine($"Itens na lista: {listaString.Count} | Capacidade: {listaString.Capacity}");
 
-listaString.Remove("MG");
+// listaString.Remove("MG");
 
-Console.WriteLine($"Itens na lista: {listaString.Count} | Capacidade: {listaString.Capacity}");
+// Console.WriteLine($"Itens na lista: {listaString.Count} | Capacidade: {listaString.Capacity}");
 
 
 

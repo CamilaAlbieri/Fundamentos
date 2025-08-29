@@ -7,11 +7,21 @@ namespace Fundamentos.Common.Models
 {
     public class Calculadora
     {
+        /// <summary>
+        /// Realiza a soma de dois números inteiros
+        /// </summary>
+        /// <param name="x">Primeiro numero da Soma </param>
+        /// <param name="y">Segundo número da Soma</param>
         public void Somar(int x, int y)
         {
             Console.WriteLine($"Soma de {x} + {y} = {x + y}");
         }
 
+/// <summary>
+/// Realiza a subtração de dois números inteiros
+/// </summary>
+/// <param name="x">primeiro numero</param>
+/// <param name="y"></param>
         public void Subtrair(int x, int y)
         {
             Console.WriteLine($"Subtração de {x} - {y} = {x - y}");
