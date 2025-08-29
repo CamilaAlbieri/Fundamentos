@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj": {}
+    "c:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj": {}
   },
   "projects": {
-    "C:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj": {
+    "c:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj",
+        "projectUniqueName": "c:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj",
         "projectName": "Fundamentos.Common",
-        "projectPath": "C:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj",
+        "projectPath": "c:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-        "outputPath": "C:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\obj\\",
+        "outputPath": "c:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config"

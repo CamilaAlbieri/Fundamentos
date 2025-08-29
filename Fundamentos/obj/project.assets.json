@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos\\Fundamentos.csproj",
+      "projectUniqueName": "c:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos\\Fundamentos.csproj",
       "projectName": "Fundamentos",
-      "projectPath": "C:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos\\Fundamentos.csproj",
+      "projectPath": "c:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos\\Fundamentos.csproj",
       "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "C:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos\\obj\\",
+      "outputPath": "c:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj": {
-              "projectPath": "C:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj"
+            "c:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj": {
+              "projectPath": "c:\\Portifolio\\BootCamp .NET\\Fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj"
             }
           }
         }

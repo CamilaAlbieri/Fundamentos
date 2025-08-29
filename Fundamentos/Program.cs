@@ -1,10 +1,72 @@
 ﻿using Fundamentos.Common.Models;
 
 
-Pessoa pessoa = new Pessoa();
-pessoa.Nome = "Camila";
-pessoa.Idade = 24;  
-pessoa.Apresentar();
+
+
+//------------------------------------------------
+
+//Listas
+
+
+List<string> listaString = new List<string>(); //Não precisa definir o tamanho da lista
+
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+listaString.Add("RJ");
+
+Console.WriteLine($"Itens na lista: {listaString.Count} | Capacidade: {listaString.Capacity}"); //Count retorna a quantidade de itens na lista
+
+listaString.Add("SC");
+
+Console.WriteLine($"Itens na lista: {listaString.Count} | Capacidade: {listaString.Capacity}");
+
+listaString.Remove("MG");
+
+Console.WriteLine($"Itens na lista: {listaString.Count} | Capacidade: {listaString.Capacity}");
+
+
+
+
+//Array 
+
+// int[] arrayInteiros = new int[4];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+// arrayInteiros[3] = 100; //Erro de índice fora dos limites do array
+
+
+// int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2]; //Cria um novo array com o dobro do tamanho
+// Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length); //Copia os valores do array original para o novo array
+
+// //Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2; //Redimensiona o array, mantendo os valores já existentes. Faz uma cópia para um novo array com o novo tamanho
+
+
+// Console.WriteLine($"\nPercorrendo com o FOR");
+
+// for (int i = 0; i < arrayInteiros.Length; i++)
+// {
+//     Console.WriteLine($"Posição Nº {i} = {arrayInteiros[i]}");
+// }
+
+//Console.WriteLine($"\nPercorrendo com o FOREACH");
+
+// int contadorForeach = 0;
+// foreach (int valor in arrayInteiros) //Para cada elementos dentro do arrayInteiros coloque o valor na variável 'valor'
+// {
+//     Console.WriteLine($"Posição Nº {contadorForeach} : {valor}");
+//     contadorForeach++;
+
+//}
+
+//------------------------------------------------
+
+// Pessoa pessoa = new Pessoa();
+// pessoa.Nome = "Camila";
+// pessoa.Idade = 24;  
+// pessoa.Apresentar();
 
 //------------------------------------------------
 
